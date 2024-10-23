@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@elyass.hafidii" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=rgb(0,0,0)&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
+      <img src="https://img.shields.io/static/v1?message=Medium&logo=Medium&label=&color=rgb(0,0,0)&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium logo"  />
   </a>
   
 </p>
@@ -29,7 +29,7 @@
 #### Web & Mobile Development
 
 - **Frameworks:**
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" height="25"/> Nest.js</a>,
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg](https://www.svgrepo.com/show/373872/nestjs.svg" alt="nestjs" height="25"/> Nest.js</a>,
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" height="25"/> Express.js</a>,
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" height="25"/> Laravel</a>,
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" height="25"/> Django</a>,
