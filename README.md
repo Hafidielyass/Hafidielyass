@@ -67,26 +67,17 @@
 - **Platforms:** <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="25"/> Linux OS</a>,
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="25"/> AWS Cloud</a>
 
-#### Other Tools
-
-<p align="center">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma"/> Figma</a> | 
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator"/> Adobe Illustrator</a> | 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode"/> VS Code</a> | 
-    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="25" alt="anaconda"/> AnaConda</a>
-<p>
-
 ## 📈 GitHub Stats
 
 <p align="left">
-    <img width="45%" height="165px" align="left" src="https://github-readme-stats.vercel.app/api?username=idrisselhouari&show_icons=true&include_all_commits=true&hide_border=true" alt="idrisselhouari" />
+    <img width="45%" height="165px" align="left" src="https://github-profile-trophy.vercel.app/?username=Hafidielyass&theme=onedark" alt="Hafidielyass" />
 </p>
 
 <p align="right">
-    <img width="45%" height="165px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisselhouari&layout=compact&hide_border=true" alt="idrisselhouari" />
+    <img width="45%" height="165px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafidielyass&layout=compact&hide_border=true" alt="Hafidielyass" />
 </p>
 
 <p align="center" >
-  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idrisselhouari" alt="idrisselhouari" />
+  <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hafidielyass" alt="Hafidielyass" />
 </p>
 # Hafidielyass
