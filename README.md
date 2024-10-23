@@ -75,7 +75,7 @@
 <br/>
 
 <p align="right">
-    <img width="45%" height="165px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafidielyass&layout=compact&hide_border=true" alt="Hafidielyass" />
+    <img width="60%" height="165px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafidielyass&layout=compact&hide_border=true" alt="Hafidielyass" />
 </p>
 
 <p align="center" >
