@@ -70,7 +70,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img width="60%" height="165px" align="left" src="https://github-profile-trophy.vercel.app/?username=Hafidielyass&theme=onedark" alt="Hafidielyass" />
+    <img width="70%" height="165px" align="left" src="https://github-profile-trophy.vercel.app/?username=Hafidielyass&theme=onedark" alt="Hafidielyass" />
 </p>
 <br/>
 
